@@ -11,10 +11,10 @@
 
 [![WEBSITE](https://img.shields.io/badge/WEBSITE-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-mahbub-milon)
-[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourusername](https://www.instagram.com/jm_milon56/?hl=en))
-[![FACEBOOK](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/yourusername](https://www.facebook.com/jm.milon5678/))
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jm_milon56/?hl=en)
+[![FACEBOOK](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jm.milon5678/)
 [![FIVERR](https://img.shields.io/badge/FIVERR-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/2pGzqbe)
-[![UPWORK](https://img.shields.io/badge/UPWORK-6BR444?style=for-the-badge&logo=upwork&logoColor=white)]([https://upwork.com/freelancers/yourusername](https://www.upwork.com/freelancers/~0141c3ef0fd05a5ddd?mp_source=share))
+[![UPWORK](https://img.shields.io/badge/UPWORK-6BR444?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0141c3ef0fd05a5ddd?mp_source=share)
 
 ---
 
