@@ -10,7 +10,7 @@
 ## Connect with Me
 
 [![WEBSITE](https://img.shields.io/badge/WEBSITE-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/jan-mahbub-milon))
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-mahbub-milon)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourusername](https://www.instagram.com/jm_milon56/?hl=en))
 [![FACEBOOK](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/yourusername](https://www.facebook.com/jm.milon5678/))
 [![FIVERR](https://img.shields.io/badge/FIVERR-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/2pGzqbe)
