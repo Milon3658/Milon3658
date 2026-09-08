@@ -43,4 +43,7 @@
 * 📌 **[MyPharma]** — [A medicine delivery e-commerce mobile application & website]
 * 📌 **[A-Live]** — [Video/Audio streaming application]
 * 📌 **[Max-Live]** — [Video/Audio streaming application]
+* 📌 **[Scrapify]** — [Import JSON data from E-Commerce sites]
+* 📌 **[Flutter Bangla Blog]** — [Flutter learning platform with Bengali language]
+* 📌 **[Traveled]** — [All the tourist place information website]
 * 📌 **[Garage book]** — [Car repair booking website]
