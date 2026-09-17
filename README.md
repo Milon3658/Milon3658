@@ -38,7 +38,7 @@
 
 ---
 
-## 📁 Fun Projects
+## 📁 Projects
 
 * 📌 **[MyPharma]** — [A medicine delivery e-commerce mobile application & website]
 * 📌 **[A-Live]** — [Video/Audio streaming application]
