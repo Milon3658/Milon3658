@@ -47,3 +47,4 @@
 * 📌 **[Flutter Bangla Blog]** — [Flutter learning platform with Bengali language]
 * 📌 **[Traveled]** — [All the tourist place information website]
 * 📌 **[Garage book]** — [Car repair booking website]
+* 📌 **[Nexum Vpn]** — [Nexus VPN encrypts your connection so you stay secure on any network—anytime, anywhere]
